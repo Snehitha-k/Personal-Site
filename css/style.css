@@ -61,13 +61,15 @@ padding:50px 0 20px;
 }
 .bottom-cloud{
   position: absolute;
-  left:300px;
-  bottom:300px;
+  left:250px;
+  bottom:150px;
+ 
 }
 .top-cloud{
   position:absolute;
   right:300px;
   top:40px;
+  
 }
 
 .skill-row{
